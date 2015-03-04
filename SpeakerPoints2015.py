@@ -1,8 +1,17 @@
 import xml.etree.ElementTree as ET
 import sys
+import os
+
+dir = os.path.dirname(__file__)
+print dir
+ndt_data = os.path.join(dir, 'results\\ndt_data_3_3.xml')
+print ndt_data
+ndt_entries = os.path.join(dir, 'entries\\ndt_entries.txt')
+gsu_results= os.path.join(dir, 'results\\gsu_results_3_3.xml')
+gsu_entries= os.path.join(dir,'entries\\gsu_entries.txt')
 
 #creates a tree of the team list for the NDT
-ndt = ET.parse('ndt_data_3_3.xml')
+ndt = ET.parse(ndt_data)
 ndt_root = ndt.getroot()
 ndt_entries_list=[]
 gsu_entries_list=[]
@@ -11,7 +20,7 @@ combined_entries_list=[]
 ndt_points={} #contains the team code as primary key, average points
 ndt_tournaments={} #contains the team code as primary key, list of tournaments that were attended
 
-ndt_entries_txt = open('ndt_entries.txt', 'r+')
+ndt_entries_txt = open(ndt_entries, 'r+')
 for entry in ndt_root.findall('ENTRY'):
 	code = entry.find('CODE').text
 	ndt_entries_txt.write(code)
@@ -24,9 +33,9 @@ ndt_entries_txt.close()
 #now that I have ndt part done, i ONLY care about NDT teams
 
 
-gsu=ET.parse('gsu_results_3_3.xml')
+gsu=ET.parse(gsu_results)
 gsu_root=gsu.getroot()
-gsu_entries_txt = open('gsu_entries.txt', 'r+')
+gsu_entries_txt = open(gsu_entries, 'r+')
 gsu_codes={} #this dictionary takes their id in tabroom and corresponds to team code
 gsu_points={} #this corresponds team id to points
 
@@ -105,14 +114,19 @@ for key, value in gsu_points.iteritems():
 #for key, value in gsu_points.iteritems():
 #	print key, value
 gsu_entries_txt.close()
-combined_entries_txt = open('combined_entries.txt', 'r+')
+combined_entries= os.path.join(dir,'entries\combined_entries.txt')
+
+combined_entries_txt = open(combined_entries, 'r+')
 #need to make a change here to account for reverse partnerships
 
 
 #########Kentucky
-uk=ET.parse('kentucy_results_3_3.xml')
+uk_entries= os.path.join(dir,'entries\combined_entries.txt')
+uk_results= os.path.join(dir,'results\kentucy_results_3_3.xml')
+
+uk=ET.parse(uk_results)
 uk_root=uk.getroot()
-uk_entries_txt = open('kentucky_entries.txt', 'r+')
+uk_entries_txt = open(uk_entries, 'r+')
 uk_entries_list=[]
 uk_codes={}
 uk_points={}
@@ -182,7 +196,9 @@ for key, value in uk_points.iteritems():
 #	gsu_codes.setdefault(key,[]).append(value)
 
 ###print values at the end
-speaker_points= open('speaker_points.txt', 'r+')
+speaks= os.path.join(dir,'output\speaker_points.txt')
+
+speaker_points= open(speaks, 'r+')
 speaker_points.truncate()
 for key, value in ndt_points.iteritems() :
 	speaker_points.write(key)
