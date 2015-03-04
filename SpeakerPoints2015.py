@@ -3,9 +3,7 @@ import sys
 import os
 
 dir = os.path.dirname(__file__)
-print dir
 ndt_data = os.path.join(dir, 'results\\ndt_data_3_3.xml')
-print ndt_data
 ndt_entries = os.path.join(dir, 'entries\\ndt_entries.txt')
 gsu_results= os.path.join(dir, 'results\\gsu_results_3_3.xml')
 gsu_entries= os.path.join(dir,'entries\\gsu_entries.txt')
@@ -267,6 +265,79 @@ for key, value in umkc_points.iteritems():
 	ndt_points.setdefault(key3,[]).append('UMKC')
 	ndt_points.setdefault(key3,[]).append(total)
 #merge umkc
+
+####add Harvard
+#uk_entries= os.path.join(dir,'entries\combined_entries.txt')
+harvard_results= os.path.join(dir,'results\harvard_results_3_4.xml')
+
+harvard=ET.parse(harvard_results)
+harvard_root=harvard.getroot()
+#umkc_entries_txt = open(umkc_entries, 'r+')
+harvard_entries_list=[]
+harvard_codes={}
+harvard_points={}
+for entry in harvard_root.findall('ENTRY'):
+	code = entry.find('CODE').text #Emory KS
+	id=entry.find('ID').text #team ID
+	#check both initials
+	initials=code[-2:]
+	code_reversed=code[:-2]+initials[1]+initials[0]
+	#if NDT team then do things
+	if code in ndt_entries_list:
+	# or (code_reversed in ndt_entries_list)
+#		umkc_entries_txt.write(code)
+#		umkc_entries_txt.write('\n')
+	#I now have all of the team codes
+		harvard_entries_list.append(code)
+		harvard_codes.setdefault(id, []).append(code)
+		harvard_codes.setdefault(id, []).append('harvard')
+		harvard_points.setdefault(id,[])
+	elif code_reversed in ndt_entries_list:
+#		umkc_entries_txt.write(code_reversed)
+#		umkc_entries_txt.write('\n')
+	#I now have all of the team codes
+		harvard_entries_list.append(code)
+		harvard_codes.setdefault(id, []).append(code_reversed)
+		harvard_codes.setdefault(id, []).append('harvard')
+		harvard_points.setdefault(id,[])
+#primary key is now the ID
+
+#umkc_entries_txt.close()
+harvard_students={} #this corresponds to their team id in tabroom and the debater id
+for entry_student in harvard_root.findall('ENTRY_STUDENT'):
+	id=entry_student.find('ID').text #student ID
+	entry=entry_student.find('ENTRY').text #team ID
+	if entry in harvard_codes:
+		harvard_students.setdefault(id, []).append(entry)
+	#now the student is the primary key
+	
+for ballots in harvard_root.findall('BALLOT_SCORE'):
+	score_id=ballots.find('SCORE_ID').text #points or not
+	score=ballots.find('SCORE').text #speaker points
+	debater=ballots.find('RECIPIENT').text #something
+	
+	if score_id=='POINTS':
+		if debater in harvard_students:
+			#look up team id
+			value=harvard_students[debater]
+			#tel['jack'] returns the value, which means i need the team id as the key
+			harvard_points.setdefault(value[0], []).append(score)
+for key, value in harvard_points.iteritems():
+	#value is a list of points that need to be converted
+	#key is the id that we append to when we're done
+	j=0
+	test=value
+	for i in value:
+		test[j]= float(i)
+		j+=1
+	total = sum(test)/len(test)
+	harvard_codes.setdefault(key,[]).append(total)
+	key2=harvard_codes[key]
+	key3=key2[0]
+	###this is where i can append to the ndt points one
+	ndt_points.setdefault(key3,[]).append('harvard')
+	ndt_points.setdefault(key3,[]).append(total)
+#merge harvard
 
 
 ###print values at the end
