@@ -1,0 +1,162 @@
+Find tournament ID from this:
+http://www.tabroom.com/api/current_tournaments.mhtml?timestring=2014-02-01T12:00:00
+
+Find tournament data from this:
+http://www.tabroom.com/api/tourn_published.mhtml?tourn_id=2874&event_id=27459
+http://www.tabroom.com/api/tourn_published.mhtml?tourn_id=2823&event_id=27171
+How to parse an xml:
+http://docs.python.org/2/library/xml.etree.elementtree.html#
+
+Steps:
+Download GSU, Kentucky, Wake, USC, Fullerton and Texas XML
+Download NDT xml
+Generate list of debaters from NDT xml- there should an object for each debater
+The debater object should contain the following fields
+1. Full Name (eg Ben Dean)
+2. First Name (eg Ben)
+3. Last Name (eg Dean)
+4. Team Code (eg Emory DK)
+5. Team ID (this is shared by the 2 partners, eg 123456)
+6. GSU ID
+7. Kentucky ID
+8. Wake ID
+9. USC ID
+10. Fullerton ID
+11. Texas ID
+12. GSU points average
+13. Kentucky points average
+14. Wake points average
+15. USC points average
+16. Fullerton points average
+17. Texas points average
+18. Number of tournaments
+
+The partnership object should contain
+1. Partner code (eg Emory DK)
+2. GSU points average
+3. Kentucky points average
+4. Wake points average
+5. USC points average
+6. Fullerton points average
+7. Texas points average
+8. Number of tournaments
+9. Overall points average
+
+To create debater objects
+parse the ndt xml and create an object for each partnership and debater, most will be blank I imagine (this part needs a little more thought)
+
+For each debater object
+-parse the <tournament> xml for an ID in the Entry_Student ID based on the names
+-store <tournament> ID in debater object
+-if <tournament> ID isn't 0, parse for points in <tournament> xml, average them, store them in both partnership and individual <tournament> points. increment tournament number
+-if <tournament> id =0, skip this part.
+continue through every tournament
+
+Average all of the points at the end
+
+Loop over the partnership objects and print everything (maybe sorted, maybe not)
+
+Texas is 2463
+Tournament Results is global header
+
+Entry_Student (this is the important one)
+-ID (this corresponds to recipient in Ballot_Score)
+-DownloadRecord
+-School
+-Entry
+-First
+-Last
+
+Ballot_Score
+-ID
+-Ballot
+-Recipient (this corresponds to Entry_Student_ID)
+-Score_ID (this is either "Win" or "Points")
+-Score (this is either "0" or "1" or normal points)
+
+
+Tourn
+-ID
+-TOURNNAME
+-STARTDATE
+-ENDDATE
+-DOWNLOADDATE
+
+Entry
+-ID
+-School
+-Event
+-Rating
+-Code
+-Fullname
+-Dropped
+-ADA
+-TUBDisability
+
+School
+-ID
+-DownloadRecord
+-Code
+-SchoolName
+-Coaches
+
+Round
+-ID
+-Event
+-Timeslot
+-TB_Set
+-RD_Name
+-Label
+-Flighting
+-JudgesPerPanel
+-JudgePlaceScheme
+-PairingScheme
+-Topic
+-CreatedOffline
+
+Panel
+-ID
+-Round
+-Room
+-Flight
+-Bye
+
+Ballot
+-ID
+-Judge
+-Panel
+-Entry
+-Side
+-Room
+-Bye
+-NoShow
+
+SKIPPED
+-ElimSeed
+-TieBreak
+-TimeSlot
+-Room
+
+For the nerds: a public XML results API is now exposed. If you query 
+
+http://www.tabroom.com/api/current_tournaments.mhtml
+
+you will be delivered an XML file which contains tournament ID numbers and their event ID numbers for currently happening tournaments. You can also feed it the argument "timestring" in the following format "YYYY-MM-DDTHH:MM:SS", in other words:
+
+http://www.tabroom.com/api/current_tournaments.mhtml?timestring=2014-02-01T12:00:00
+
+to see tournaments happening at a time other than right now. Times must be in the UTC timezone. 
+
+You can parse this XML file for Event IDs and Tourn IDs, and then use them to download any published rounds & published results for a public tournament like so: 
+
+http://www.tabroom.com/api/tourn_published.mhtml?tourn_id=2463&event_id=24555
+
+Excluded from these downloads are ADA status, prefs, contact information for students or judges, etc; it is only an XML representation of data already
+published by a tournament. 
+
+Hi Nerds! Palmer wuvs you.
+
+
+Let's do this for UGA
+UGA- 2392
+Open- 24555

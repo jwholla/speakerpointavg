@@ -1,0 +1,17 @@
+####print list of teams attending GSU and NDT
+for i in ndt_entries_list:
+	if i in gsu_entries_list:
+		combined_entries_list.append(i)
+for i in ndt_entries_list:
+	initials=i[-2:]
+	initials_reversed=initials[1]+initials[0]
+	teamcode=i[:-2]+initials_reversed
+	if teamcode in gsu_entries_list:
+		combined_entries_list.append(teamcode)
+combined_entries_txt.truncate()
+combined_entries_list.sort()
+for i in combined_entries_list:
+		combined_entries_txt.write(i)
+		combined_entries_txt.write('\n')
+combined_entries_txt.close()
+

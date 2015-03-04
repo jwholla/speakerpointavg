@@ -1,0 +1,62 @@
+Oklahoma CY 
+Kentucky HR GSU 28.65625 UK 28.6375 
+Southern California NO UK 28.3875 
+Kansas HR GSU 28.725 
+Arizona State CR 
+Georgia GH GSU 28.7 
+Baylor BB 
+Georgetown LM GSU 29.025 UK 28.94375 
+Liberty CS GSU 28.1125 
+Concordia College SS 
+Harvard DH GSU 28.96875 UK 29.25 
+Nevada Las Vegas BS 
+Northwestern OW GSU 28.64375 UK 28.575 
+Michigan State ST GSU 28.88125 UK 29.0625 
+Liberty CE GSU 28.8875 
+Kansas State RP 
+Minnesota CE GSU 28.85625 UK 28.9625 
+George Mason KL GSU 28.76875 UK 28.8625 
+Michigan AP UK 29.23125 
+Texas SK 
+Georgia State SN GSU 28.2 UK 28.36875 
+Stanford GL 
+Dartmouth College KM 
+Vermont BL 
+California, Berkeley MS UK 28.83125 
+Baylor EZ UK 28.59375 
+Kentucky GV GSU 28.56875 UK 28.8125 
+Emory KS GSU 28.93125 UK 28.925 
+Southern California BL UK 28.63125 
+Georgetown EK GSU 28.46875 UK 28.45625 
+Iowa SH 
+Vanderbilt BM GSU 28.35625 UK 28.3625 
+Weber State HV 
+Harvard BS GSU 29.175 UK 29.225 
+Kansas City Kansas CC CN 
+Towson TW 
+CUNY AM 
+Binghamton HS 
+Wyoming MM 
+Wayne State SN GSU 28.54375 UK 28.65 
+Kansas State SK 
+Michigan State CZ GSU 28.75 UK 28.71875 
+Michigan KM GSU 28.86875 UK 28.80625 
+NYU IZ 
+Nevada Las Vegas GV 
+United States Military BC 
+Emory BD GSU 28.53125 UK 28.33125 
+Georgia BF GSU 28.5 UK 28.61875 
+Wake Forest DL GSU 28.83125 UK 29.05 
+California, Berkeley WS 
+Puget Sound BQ 
+Northwestern MV GSU 29.375 
+UT Dallas OL UK 28.25 
+Oklahoma AC 
+Central Oklahoma HS 
+Trinity SR GSU 28.7125 
+George Mason DK 
+Kansas KC GSU 28.80625 UK 28.7 
+James Madison BW GSU 28.29375 
+Whitman College DL 
+Minnesota WW GSU 28.325 UK 28.34375 
+Cal State Fullerton DG 
