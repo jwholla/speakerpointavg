@@ -195,6 +195,80 @@ for key, value in uk_points.iteritems():
 #for key, value in uk_codes.iteritems():
 #	gsu_codes.setdefault(key,[]).append(value)
 
+#####add umkc
+#uk_entries= os.path.join(dir,'entries\combined_entries.txt')
+umkc_results= os.path.join(dir,'results\umkc_results_3_4.xml')
+
+umkc=ET.parse(umkc_results)
+umkc_root=umkc.getroot()
+#umkc_entries_txt = open(umkc_entries, 'r+')
+umkc_entries_list=[]
+umkc_codes={}
+umkc_points={}
+for entry in umkc_root.findall('ENTRY'):
+	code = entry.find('CODE').text #Emory KS
+	id=entry.find('ID').text #team ID
+	#check both initials
+	initials=code[-2:]
+	code_reversed=code[:-2]+initials[1]+initials[0]
+	#if NDT team then do things
+	if code in ndt_entries_list:
+	# or (code_reversed in ndt_entries_list)
+#		umkc_entries_txt.write(code)
+#		umkc_entries_txt.write('\n')
+	#I now have all of the team codes
+		umkc_entries_list.append(code)
+		umkc_codes.setdefault(id, []).append(code)
+		umkc_codes.setdefault(id, []).append('umkc')
+		umkc_points.setdefault(id,[])
+	elif code_reversed in ndt_entries_list:
+#		umkc_entries_txt.write(code_reversed)
+#		umkc_entries_txt.write('\n')
+	#I now have all of the team codes
+		umkc_entries_list.append(code)
+		umkc_codes.setdefault(id, []).append(code_reversed)
+		umkc_codes.setdefault(id, []).append('umkc')
+		umkc_points.setdefault(id,[])
+#primary key is now the ID
+
+#umkc_entries_txt.close()
+umkc_students={} #this corresponds to their team id in tabroom and the debater id
+for entry_student in umkc_root.findall('ENTRY_STUDENT'):
+	id=entry_student.find('ID').text #student ID
+	entry=entry_student.find('ENTRY').text #team ID
+	if entry in umkc_codes:
+		umkc_students.setdefault(id, []).append(entry)
+	#now the student is the primary key
+	
+for ballots in umkc_root.findall('BALLOT_SCORE'):
+	score_id=ballots.find('SCORE_ID').text #points or not
+	score=ballots.find('SCORE').text #speaker points
+	debater=ballots.find('RECIPIENT').text #something
+	
+	if score_id=='POINTS':
+		if debater in umkc_students:
+			#look up team id
+			value=umkc_students[debater]
+			#tel['jack'] returns the value, which means i need the team id as the key
+			umkc_points.setdefault(value[0], []).append(score)
+for key, value in umkc_points.iteritems():
+	#value is a list of points that need to be converted
+	#key is the id that we append to when we're done
+	j=0
+	test=value
+	for i in value:
+		test[j]= float(i)
+		j+=1
+	total = sum(test)/len(test)
+	umkc_codes.setdefault(key,[]).append(total)
+	key2=umkc_codes[key]
+	key3=key2[0]
+	###this is where i can append to the ndt points one
+	ndt_points.setdefault(key3,[]).append('UMKC')
+	ndt_points.setdefault(key3,[]).append(total)
+#merge umkc
+
+
 ###print values at the end
 speaks= os.path.join(dir,'output\speaker_points.txt')
 

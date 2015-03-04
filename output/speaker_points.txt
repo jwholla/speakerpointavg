@@ -1,62 +1,62 @@
 Oklahoma CY 
 Kentucky HR GSU 28.65625 UK 28.6375 
-Southern California NO UK 28.3875 
-Kansas HR GSU 28.725 
+Southern California NO UK 28.3875 UMKC 28.44375 
+Kansas HR GSU 28.725 UMKC 28.80625 
 Arizona State CR 
 Georgia GH GSU 28.7 
 Baylor BB 
 Georgetown LM GSU 29.025 UK 28.94375 
 Liberty CS GSU 28.1125 
-Concordia College SS 
+Concordia College SS UMKC 28.53125 
 Harvard DH GSU 28.96875 UK 29.25 
-Nevada Las Vegas BS 
+Nevada Las Vegas BS UMKC 28.7125 
 Northwestern OW GSU 28.64375 UK 28.575 
 Michigan State ST GSU 28.88125 UK 29.0625 
 Liberty CE GSU 28.8875 
-Kansas State RP 
+Kansas State RP UMKC 27.7625 
 Minnesota CE GSU 28.85625 UK 28.9625 
 George Mason KL GSU 28.76875 UK 28.8625 
 Michigan AP UK 29.23125 
-Texas SK 
+Texas SK UMKC 28.6375 
 Georgia State SN GSU 28.2 UK 28.36875 
-Stanford GL 
+Stanford GL UMKC 28.5 
 Dartmouth College KM 
 Vermont BL 
-California, Berkeley MS UK 28.83125 
-Baylor EZ UK 28.59375 
+California, Berkeley MS UK 28.83125 UMKC 28.8125 
+Baylor EZ UK 28.59375 UMKC 28.55625 
 Kentucky GV GSU 28.56875 UK 28.8125 
 Emory KS GSU 28.93125 UK 28.925 
-Southern California BL UK 28.63125 
+Southern California BL UK 28.63125 UMKC 28.6875 
 Georgetown EK GSU 28.46875 UK 28.45625 
-Iowa SH 
+Iowa SH UMKC 28.5625 
 Vanderbilt BM GSU 28.35625 UK 28.3625 
-Weber State HV 
+Weber State HV UMKC 28.41875 
 Harvard BS GSU 29.175 UK 29.225 
 Kansas City Kansas CC CN 
-Towson TW 
+Towson TW UMKC 28.71875 
 CUNY AM 
-Binghamton HS 
+Binghamton HS UMKC 28.775 
 Wyoming MM 
 Wayne State SN GSU 28.54375 UK 28.65 
-Kansas State SK 
+Kansas State SK UMKC 28.025 UMKC 28.43125 
 Michigan State CZ GSU 28.75 UK 28.71875 
 Michigan KM GSU 28.86875 UK 28.80625 
 NYU IZ 
-Nevada Las Vegas GV 
+Nevada Las Vegas GV UMKC 28.5875 
 United States Military BC 
 Emory BD GSU 28.53125 UK 28.33125 
 Georgia BF GSU 28.5 UK 28.61875 
 Wake Forest DL GSU 28.83125 UK 29.05 
-California, Berkeley WS 
+California, Berkeley WS UMKC 28.88125 UMKC 28.375 
 Puget Sound BQ 
 Northwestern MV GSU 29.375 
-UT Dallas OL UK 28.25 
-Oklahoma AC 
+UT Dallas OL UK 28.25 UMKC 28.6375 
+Oklahoma AC UMKC 29.10625 
 Central Oklahoma HS 
 Trinity SR GSU 28.7125 
 George Mason DK 
-Kansas KC GSU 28.80625 UK 28.7 
+Kansas KC GSU 28.80625 UK 28.7 UMKC 28.725 
 James Madison BW GSU 28.29375 
-Whitman College DL 
-Minnesota WW GSU 28.325 UK 28.34375 
+Whitman College DL UMKC 28.38125 
+Minnesota WW GSU 28.325 UK 28.34375 UMKC 28.2375 
 Cal State Fullerton DG 
