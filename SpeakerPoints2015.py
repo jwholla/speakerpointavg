@@ -58,6 +58,10 @@ speaker_points= open(speaks, 'r+')
 speaker_points.truncate()
 speaker_avg=open(speaks_avg, 'r+')
 speaker_avg.truncate()
+speaks_avg_order=os.path.join(dir,'output\speaker_average_order.txt')
+speaker_avg_order=open(speaks_avg_order, 'r+')
+speaker_avg_order.truncate()
+
 key_array=[]
 
 for key, value in ndt_points.iteritems() :
@@ -125,6 +129,14 @@ for i in key_array2:
 	speaker_avg.write(str(ndt_average[i]))
 	speaker_avg.write('\n')
 speaker_avg.close()
+
+#create a new dict that goes the other direction
+for w in sorted(ndt_average, key=ndt_average.get, reverse=True):
+	speaker_avg_order.write(w)
+	speaker_avg_order.write(' ')
+	speaker_avg_order.write(str(ndt_average[w]))
+	speaker_avg_order.write('\n')
+speaker_avg_order.close()
 #for key, value in ndt_average.iteritems():
 #	print key, value
 print("Files have been generated")
