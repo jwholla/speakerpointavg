@@ -85,6 +85,8 @@ for i in key_array:
 	speaker_points.write('\n')
 speaker_points.close()
 
+#ndt_points contains a dictionary with a list
+
 #for key, value in ndt_points.iteritems():
 #	print key, value
 

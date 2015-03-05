@@ -15,3 +15,6 @@ def calculate_points(value):
 def get_team_name(codes,key):
 	key2=codes[key]
 	return key2[0]
+
+def rounds(value):
+	return len(value)

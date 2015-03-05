@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 import sys
 import os
-from validation import initials_check, calculate_points, get_team_name
+from validation import initials_check, calculate_points, get_team_name, rounds
 def harvard(ndt_entries_list,ndt_points):
 	dir = os.path.dirname(__file__)
 	####add Harvard
@@ -58,7 +58,10 @@ def harvard(ndt_entries_list,ndt_points):
 		total=calculate_points(value)
 		harvard_codes.setdefault(key,[]).append(total)
 		team_name=get_team_name(harvard_codes,key)
+		rounds_count=rounds(value)
 		###this is where i can append to the ndt points one
 		ndt_points.setdefault(team_name,[]).append('harvard')
+		ndt_points.setdefault(team_name,[]).append(rounds_count) #append number of data points
+
 		ndt_points.setdefault(team_name,[]).append(total)
 	#merge harvard
