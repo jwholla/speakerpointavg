@@ -1,9 +1,4 @@
-def b():
-	return 1
-	
-def c():
-	return 2
-	
+
 def initials_check(code):
 	initials=[]
 	initials=code[-2:]

@@ -1,62 +1,62 @@
 Oklahoma CY harvard 28.06875 
-Kentucky HR GSU 28.65625 UK 28.6375 
+Kentucky HR GSU 28.65625 UK 28.6375 wake 28.53125 
 Southern California NO UK 28.3875 UMKC 28.44375 
-Kansas HR GSU 28.725 UMKC 28.80625 harvard 28.76875 
-Arizona State CR harvard 28.49375 
-Georgia GH GSU 28.7 
+Kansas HR GSU 28.725 UMKC 28.80625 harvard 28.76875 wake 28.98125 
+Arizona State CR harvard 28.49375 wake 28.55625 
+Georgia GH GSU 28.7 wake 28.2375 
 Baylor BB 
-Georgetown LM GSU 29.025 UK 28.94375 harvard 29.0818181818 
-Liberty CS GSU 28.1125 
-Concordia College SS UMKC 28.53125 harvard 28.39375 
-Harvard DH GSU 28.96875 UK 29.25 
-Nevada Las Vegas BS UMKC 28.7125 harvard 28.58125 
-Northwestern OW GSU 28.64375 UK 28.575 harvard 28.725 
-Michigan State ST GSU 28.88125 UK 29.0625 harvard 29.1 
-Liberty CE GSU 28.8875 harvard 28.79375 
+Georgetown LM GSU 29.025 UK 28.94375 harvard 29.0818181818 wake 28.99375 
+Liberty CS GSU 28.1125 wake 28.18125 
+Concordia College SS UMKC 28.53125 harvard 28.39375 wake 28.33125 
+Harvard DH GSU 28.96875 UK 29.25 wake 29.15625 
+Nevada Las Vegas BS UMKC 28.7125 harvard 28.58125 wake 28.6 
+Northwestern OW GSU 28.64375 UK 28.575 harvard 28.725 wake 28.65625 
+Michigan State ST GSU 28.88125 UK 29.0625 harvard 29.1 wake 28.89375 
+Liberty CE GSU 28.8875 harvard 28.79375 wake 29.0875 
 Kansas State RP UMKC 27.7625 
-Minnesota CE GSU 28.85625 UK 28.9625 harvard 28.9277777778 
-George Mason KL GSU 28.76875 UK 28.8625 harvard 28.68125 
-Michigan AP UK 29.23125 harvard 29.05 
-Texas SK UMKC 28.6375 harvard 28.53125 
-Georgia State SN GSU 28.2 UK 28.36875 
-Stanford GL UMKC 28.5 harvard 28.7894736842 
+Minnesota CE GSU 28.85625 UK 28.9625 harvard 28.9277777778 wake 28.99375 
+George Mason KL GSU 28.76875 UK 28.8625 harvard 28.68125 wake 29.0125 
+Michigan AP UK 29.23125 harvard 29.05 wake 29.20625 
+Texas SK UMKC 28.6375 harvard 28.53125 wake 28.55 
+Georgia State SN GSU 28.2 UK 28.36875 wake 28.43125 
+Stanford GL UMKC 28.5 harvard 28.7894736842 wake 28.94375 
 Dartmouth College KM 
-Vermont BL harvard 28.53125 
-California, Berkeley MS UK 28.83125 UMKC 28.8125 harvard 28.8125 
-Baylor EZ UK 28.59375 UMKC 28.55625 
-Kentucky GV GSU 28.56875 UK 28.8125 harvard 28.69375 
-Emory KS GSU 28.93125 UK 28.925 harvard 29.0222222222 
-Southern California BL UK 28.63125 UMKC 28.6875 
-Georgetown EK GSU 28.46875 UK 28.45625 harvard 28.55625 
-Iowa SH UMKC 28.5625 harvard 28.3923076923 
-Vanderbilt BM GSU 28.35625 UK 28.3625 
+Vermont BL harvard 28.53125 wake 28.89375 
+California, Berkeley MS UK 28.83125 UMKC 28.8125 harvard 28.8125 wake 28.925 
+Baylor EZ UK 28.59375 UMKC 28.55625 wake 28.83125 
+Kentucky GV GSU 28.56875 UK 28.8125 harvard 28.69375 wake 28.65 
+Emory KS GSU 28.93125 UK 28.925 harvard 29.0222222222 wake 29.0125 
+Southern California BL UK 28.63125 UMKC 28.6875 wake 28.525 
+Georgetown EK GSU 28.46875 UK 28.45625 harvard 28.55625 wake 28.50625 
+Iowa SH UMKC 28.5625 harvard 28.3923076923 wake 28.65625 
+Vanderbilt BM GSU 28.35625 UK 28.3625 wake 28.45 
 Weber State HV UMKC 28.41875 
-Harvard BS GSU 29.175 UK 29.225 
+Harvard BS GSU 29.175 UK 29.225 wake 29.26875 
 Kansas City Kansas CC CN 
-Towson TW UMKC 28.71875 harvard 28.85625 
-CUNY AM 
-Binghamton HS UMKC 28.775 harvard 28.54375 
+Towson TW UMKC 28.71875 harvard 28.85625 wake 29.03125 
+CUNY AM wake 28.6 
+Binghamton HS UMKC 28.775 harvard 28.54375 wake 28.6375 
 Wyoming MM 
-Wayne State SN GSU 28.54375 UK 28.65 
-Kansas State SK UMKC 28.025 UMKC 28.43125 
-Michigan State CZ GSU 28.75 UK 28.71875 harvard 28.7444444444 
-Michigan KM GSU 28.86875 UK 28.80625 harvard 28.9333333333 
-NYU IZ 
-Nevada Las Vegas GV UMKC 28.5875 harvard 28.675 
+Wayne State SN GSU 28.54375 UK 28.65 wake 28.6 
+Kansas State SK UMKC 28.025 UMKC 28.43125 wake 28.61875 
+Michigan State CZ GSU 28.75 UK 28.71875 harvard 28.7444444444 wake 28.95625 
+Michigan KM GSU 28.86875 UK 28.80625 harvard 28.9333333333 wake 29.1875 
+NYU IZ wake 28.39375 
+Nevada Las Vegas GV UMKC 28.5875 harvard 28.675 wake 29.00625 
 United States Military BC 
-Emory BD GSU 28.53125 UK 28.33125 
-Georgia BF GSU 28.5 UK 28.61875 harvard 28.7714285714 
+Emory BD GSU 28.53125 UK 28.33125 wake 28.36875 
+Georgia BF GSU 28.5 UK 28.61875 harvard 28.7714285714 wake 28.70625 
 Wake Forest DL GSU 28.83125 UK 29.05 harvard 29.005 
-California, Berkeley WS UMKC 28.88125 UMKC 28.375 
+California, Berkeley WS UMKC 28.88125 UMKC 28.375 wake 28.9125 
 Puget Sound BQ 
-Northwestern MV GSU 29.375 harvard 29.0944444444 
-UT Dallas OL UK 28.25 UMKC 28.6375 harvard 28.55625 
-Oklahoma AC UMKC 29.10625 harvard 29.0888888889 
+Northwestern MV GSU 29.375 harvard 29.0944444444 wake 29.28125 
+UT Dallas OL UK 28.25 UMKC 28.6375 harvard 28.55625 wake 28.6125 
+Oklahoma AC UMKC 29.10625 harvard 29.0888888889 wake 28.9375 
 Central Oklahoma HS 
-Trinity SR GSU 28.7125 harvard 28.73125 
+Trinity SR GSU 28.7125 harvard 28.73125 wake 28.775 
 George Mason DK 
-Kansas KC GSU 28.80625 UK 28.7 UMKC 28.725 harvard 28.715 
-James Madison BW GSU 28.29375 harvard 28.41875 
+Kansas KC GSU 28.80625 UK 28.7 UMKC 28.725 harvard 28.715 wake 28.74375 
+James Madison BW GSU 28.29375 harvard 28.41875 wake 28.54375 
 Whitman College DL UMKC 28.38125 
-Minnesota WW GSU 28.325 UK 28.34375 UMKC 28.2375 harvard 28.19375 
-Cal State Fullerton DG harvard 28.38125 
+Minnesota WW GSU 28.325 UK 28.34375 UMKC 28.2375 harvard 28.19375 wake 28.2 
+Cal State Fullerton DG harvard 28.38125 wake 28.4875 
