@@ -56,18 +56,36 @@ speaks= os.path.join(dir,'output\speaker_points.txt')
 
 speaker_points= open(speaks, 'r+')
 speaker_points.truncate()
+key_array=[]
+#for key, value in ndt_points.iteritems() :
+#	speaker_points.write(key)
+#	speaker_points.write(' ')
+#	k=0
+#	while k < len(value):
+#		temp=str(value[k])
+#		speaker_points.write(temp)
+#		speaker_points.write(' ')
+#		k+=1
+#	speaker_points.write('\n')
+#print sorted list
 for key, value in ndt_points.iteritems() :
-	speaker_points.write(key)
+	key_array.append(key)
+	key_array.sort()
+
+for i in key_array:
+	speaker_points.write(i)
 	speaker_points.write(' ')
 	k=0
-	while k < len(value):
-		temp=str(value[k])
+	while k < len(ndt_points[i]):
+		temp2=ndt_points[i]
+		temp=str(temp2[k])
 		speaker_points.write(temp)
 		speaker_points.write(' ')
 		k+=1
 	speaker_points.write('\n')
 speaker_points.close()
-for key, value in ndt_points.iteritems():
-	print key, value
+
+#for key, value in ndt_points.iteritems():
+#	print key, value
 
 input("Press Enter to continue...")
