@@ -46,11 +46,6 @@ tournament_code.uscresults.usc(ndt_entries_list,ndt_points)
 tournament_code.fullertonresults.fullerton(ndt_entries_list,ndt_points)
 tournament_code.texasresults.texas(ndt_entries_list,ndt_points)
 
-#build a table that links code to ID
-
-combined_entries= os.path.join(dir,'entries\combined_entries.txt')
-combined_entries_txt = open(combined_entries, 'r+')
-
 ###print values at the end
 speaks= os.path.join(dir,'output\speaker_points.txt')
 speaks_avg= os.path.join(dir,'output\speaker_average.txt')
@@ -131,11 +126,15 @@ for i in key_array2:
 speaker_avg.close()
 
 #create a new dict that goes the other direction
+counter_print=1
 for w in sorted(ndt_average, key=ndt_average.get, reverse=True):
+	speaker_avg_order.write(str(counter_print-2))
+	speaker_avg_order.write(' ')
 	speaker_avg_order.write(w)
 	speaker_avg_order.write(' ')
 	speaker_avg_order.write(str(ndt_average[w]))
 	speaker_avg_order.write('\n')
+	counter_print=counter_print+1
 speaker_avg_order.close()
 #for key, value in ndt_average.iteritems():
 #	print key, value
