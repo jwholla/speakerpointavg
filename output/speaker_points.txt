@@ -5,27 +5,27 @@ Kansas HR GSU 28.725 UMKC 28.80625 harvard 28.76875
 Arizona State CR harvard 28.49375 
 Georgia GH GSU 28.7 
 Baylor BB 
-Georgetown LM GSU 29.025 UK 28.94375 harvard 26.7833333333 
+Georgetown LM GSU 29.025 UK 28.94375 harvard 29.0818181818 
 Liberty CS GSU 28.1125 
 Concordia College SS UMKC 28.53125 harvard 28.39375 
 Harvard DH GSU 28.96875 UK 29.25 
 Nevada Las Vegas BS UMKC 28.7125 harvard 28.58125 
 Northwestern OW GSU 28.64375 UK 28.575 harvard 28.725 
-Michigan State ST GSU 28.88125 UK 29.0625 harvard 26.54 
+Michigan State ST GSU 28.88125 UK 29.0625 harvard 29.1 
 Liberty CE GSU 28.8875 harvard 28.79375 
 Kansas State RP UMKC 27.7625 
 Minnesota CE GSU 28.85625 UK 28.9625 harvard 28.9277777778 
 George Mason KL GSU 28.76875 UK 28.8625 harvard 28.68125 
-Michigan AP UK 29.23125 harvard 26.5454545455 
+Michigan AP UK 29.23125 harvard 29.05 
 Texas SK UMKC 28.6375 harvard 28.53125 
 Georgia State SN GSU 28.2 UK 28.36875 
-Stanford GL UMKC 28.5 harvard 25.8363636364 
+Stanford GL UMKC 28.5 harvard 28.7894736842 
 Dartmouth College KM 
 Vermont BL harvard 28.53125 
 California, Berkeley MS UK 28.83125 UMKC 28.8125 harvard 28.8125 
 Baylor EZ UK 28.59375 UMKC 28.55625 
 Kentucky GV GSU 28.56875 UK 28.8125 harvard 28.69375 
-Emory KS GSU 28.93125 UK 28.925 harvard 24.3 
+Emory KS GSU 28.93125 UK 28.925 harvard 29.0222222222 
 Southern California BL UK 28.63125 UMKC 28.6875 
 Georgetown EK GSU 28.46875 UK 28.45625 harvard 28.55625 
 Iowa SH UMKC 28.5625 harvard 28.3923076923 
@@ -46,16 +46,16 @@ Nevada Las Vegas GV UMKC 28.5875 harvard 28.675
 United States Military BC 
 Emory BD GSU 28.53125 UK 28.33125 
 Georgia BF GSU 28.5 UK 28.61875 harvard 28.7714285714 
-Wake Forest DL GSU 28.83125 UK 29.05 harvard 26.6863636364 
+Wake Forest DL GSU 28.83125 UK 29.05 harvard 29.005 
 California, Berkeley WS UMKC 28.88125 UMKC 28.375 
 Puget Sound BQ 
 Northwestern MV GSU 29.375 harvard 29.0944444444 
 UT Dallas OL UK 28.25 UMKC 28.6375 harvard 28.55625 
-Oklahoma AC UMKC 29.10625 harvard 26.33 
+Oklahoma AC UMKC 29.10625 harvard 29.0888888889 
 Central Oklahoma HS 
 Trinity SR GSU 28.7125 harvard 28.73125 
 George Mason DK 
-Kansas KC GSU 28.80625 UK 28.7 UMKC 28.725 harvard 26.4227272727 
+Kansas KC GSU 28.80625 UK 28.7 UMKC 28.725 harvard 28.715 
 James Madison BW GSU 28.29375 harvard 28.41875 
 Whitman College DL UMKC 28.38125 
 Minnesota WW GSU 28.325 UK 28.34375 UMKC 28.2375 harvard 28.19375 

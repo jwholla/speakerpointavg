@@ -1,0 +1,14 @@
+select ID from entry where code = code
+find wins recipient
+
+ENTRY_STUDENT contains
+
+entry (refers to team) is 595772
+sigalos has ID 107121
+
+find score from ballot_score where recipient = 107121 or 595772
+
+
+ENTRY_STUDENT
+ID (this corresponds to recipient)
+ENTRY (corresponds to team)
