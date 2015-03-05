@@ -3,7 +3,7 @@ http://www.tabroom.com/api/current_tournaments.mhtml?timestring=2014-02-01T12:00
 
 Find tournament data from this:
 http://www.tabroom.com/api/tourn_published.mhtml?tourn_id=2874&event_id=27459
-http://www.tabroom.com/api/tourn_published.mhtml?tourn_id=3073
+http://www.tabroom.com/api/tourn_published.mhtml?tourn_id=2903&event_id=27579
 How to parse an xml:
 http://docs.python.org/2/library/xml.etree.elementtree.html#
 

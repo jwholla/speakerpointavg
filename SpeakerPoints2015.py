@@ -7,6 +7,9 @@ from ukresults import uk
 from umkcresults import umkc
 from harvardresults import harvard
 from wakeresults import wake
+from uscresults import usc
+from fullertonresults import fullerton
+from texasresults import texas
 
 dir = os.path.dirname(__file__)
 ndt_data = os.path.join(dir, 'results\\ndt_data_3_3.xml')
@@ -39,6 +42,9 @@ uk(ndt_entries_list,ndt_points)
 umkc(ndt_entries_list,ndt_points)
 harvard(ndt_entries_list,ndt_points)
 wake(ndt_entries_list,ndt_points)
+usc(ndt_entries_list,ndt_points)
+fullerton(ndt_entries_list,ndt_points)
+texas(ndt_entries_list,ndt_points)
 
 #build a table that links code to ID
 
