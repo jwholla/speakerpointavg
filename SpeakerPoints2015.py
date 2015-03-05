@@ -1,15 +1,15 @@
 import xml.etree.ElementTree as ET
 import sys
 import os
-from validation import initials_check, calculate_points, get_team_name
-from gsuresults import gsu
-from ukresults import uk
-from umkcresults import umkc
-from harvardresults import harvard
-from wakeresults import wake
-from uscresults import usc
-from fullertonresults import fullerton
-from texasresults import texas
+import tournament_code.validation
+import tournament_code.gsuresults
+import tournament_code.ukresults
+import tournament_code.umkcresults
+import tournament_code.harvardresults
+import tournament_code.uscresults
+import tournament_code.wakeresults
+import tournament_code.fullertonresults
+import tournament_code.texasresults
 
 dir = os.path.dirname(__file__)
 ndt_data = os.path.join(dir, 'results\\ndt_data_3_3.xml')
@@ -37,14 +37,14 @@ ndt_entries_txt.close()
 #now that I have ndt part done, i ONLY care about NDT teams
 
 #adds each tournament
-gsu(ndt_entries_list,ndt_points)
-uk(ndt_entries_list,ndt_points)
-umkc(ndt_entries_list,ndt_points)
-harvard(ndt_entries_list,ndt_points)
-wake(ndt_entries_list,ndt_points)
-usc(ndt_entries_list,ndt_points)
-fullerton(ndt_entries_list,ndt_points)
-texas(ndt_entries_list,ndt_points)
+tournament_code.gsuresults.gsu(ndt_entries_list,ndt_points)
+tournament_code.ukresults.uk(ndt_entries_list,ndt_points)
+tournament_code.umkcresults.umkc(ndt_entries_list,ndt_points)
+tournament_code.harvardresults.harvard(ndt_entries_list,ndt_points)
+tournament_code.wakeresults.wake(ndt_entries_list,ndt_points)
+tournament_code.uscresults.usc(ndt_entries_list,ndt_points)
+tournament_code.fullertonresults.fullerton(ndt_entries_list,ndt_points)
+tournament_code.texasresults.texas(ndt_entries_list,ndt_points)
 
 #build a table that links code to ID
 
@@ -125,7 +125,7 @@ for i in key_array2:
 	speaker_avg.write(str(ndt_average[i]))
 	speaker_avg.write('\n')
 speaker_avg.close()
-for key, value in ndt_average.iteritems():
-	print key, value
-
+#for key, value in ndt_average.iteritems():
+#	print key, value
+print("Files have been generated")
 input("Press Enter to continue...")

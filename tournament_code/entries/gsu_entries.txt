@@ -1,0 +1,109 @@
+Emory BD
+Emory KS
+George Mason KL
+Georgetown EK
+Georgetown LM
+Georgia BF
+Georgia GH
+Georgia State SN
+Harvard BS
+Harvard DH
+James Madison BW
+Kansas KC
+Kansas HR
+Kentucky GV
+Kentucky HR
+Liberty CE
+Liberty CS
+Michigan KM
+Michigan State CZ
+Michigan State ST
+Minnesota CE
+Minnesota WW
+Northwestern MV
+Northwestern OW
+Trinity SR
+Vanderbilt BM
+Wake Forest DL
+Wayne State SN
+vard BN
+Harvard BS
+Harvard DA
+Harvard DH
+Harvard HK
+Harvard NS
+Houston BJ
+Houston BT
+Houston RG
+Indiana FG
+Indiana SP
+James Madison BP
+James Madison BW
+James Madison ML
+James Madison MP
+Kansas BC
+Kansas CK
+Kansas FG
+Kansas HR
+Kentucky GN
+Kentucky GV
+Kentucky HR
+Kentucky/Mary Washington WA
+Liberty AB
+Liberty AM
+Liberty CE
+Liberty CS
+Louisville BL
+Louisville HR
+Louisville TW
+Mary Washington SY
+Miami GS
+Michigan BC
+Michigan BP
+Michigan KJ
+Michigan KK
+Michigan KM
+Michigan MD
+Michigan State BP
+Michigan State CZ
+Michigan State LL
+Michigan State NF
+Michigan State Pl
+Michigan State ST
+Minnesota AK
+Minnesota CE
+Minnesota WW
+Navy RM
+Northwestern EM
+Northwestern MV
+Northwestern WO
+Oklahoma CR
+Pepperdine CH
+Pepperdine EL
+Samford HB
+Trinity CY
+Trinity DU
+Trinity MP
+Trinity RS
+Trinity VT
+Vanderbilt BM
+Vanderbilt PB
+Wake Forest AD
+Wake Forest BS
+Wake Forest CC
+Wake Forest CV
+Wake Forest DL
+Wake Forest HM
+Wake Forest HQ
+Wake Forest HS
+Wake Forest LN
+Wake Forest LS
+Wake Forest MR
+Wake Forest MS
+Wake Forest NW
+Wake Forest ShMi
+Wayne State HM
+Wayne State NS
+Wayne State SD
+West Georgia CJ
+West Georgia MG

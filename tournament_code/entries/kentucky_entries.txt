@@ -1,0 +1,90 @@
+Baylor EZ
+California, Berkeley MS
+Emory BD
+Emory KS
+George Mason KL
+Georgetown EK
+Georgetown LM
+Georgia BF
+Georgia State SN
+Harvard BS
+Harvard DH
+Kansas KC
+Kentucky GV
+Kentucky HR
+Michigan AP
+Michigan KM
+Michigan State CZ
+Michigan State ST
+Minnesota CE
+Minnesota WW
+Northwestern OW
+Southern California BL
+Southern California NO
+UT Dallas OL
+Vanderbilt BM
+Wake Forest DL
+Wayne State SN
+arvard BS
+Harvard DH
+Harvard HK
+Harvard NS
+Houston BT
+Houston RG
+Indiana PF
+Kansas BC
+Kansas CK
+Kansas DG
+Kansas FG
+Kansas MR
+Kentucky GN
+Kentucky GV
+Kentucky HR
+Mary Washington SY
+Michigan AP
+Michigan BP
+Michigan CL
+Michigan DM
+Michigan JK
+Michigan KK
+Michigan KM
+Michigan State BP
+Michigan State CS
+Michigan State CZ
+Michigan State FN
+Michigan State ML
+Michigan State PB
+Michigan State TS
+Minnesota AK
+Minnesota CE
+Minnesota WW
+Missouri State CR
+Missouri State GR
+Missouri State HW
+Missouri State RB
+Navy RM
+Northwestern CS
+Northwestern EM
+Northwestern OW
+Northwestern TG
+Samford BC
+Southern California BL
+Southern California ON
+Southern California SV
+Texas TJ
+UT Dallas BF
+UT Dallas OL
+Vanderbilt BM
+Wake Forest AD
+Wake Forest CC
+Wake Forest DL
+Wake Forest HM
+Wake Forest HQ
+Wake Forest MR
+Wake Forest MS
+Wake Forest NW
+Wayne State DS
+Wayne State MH
+Wayne State NS
+West Georgia CJ
+West Georgia KZ
