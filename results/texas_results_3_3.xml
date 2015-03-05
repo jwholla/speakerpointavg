@@ -19,7 +19,7 @@
     <SCHOOL>77909</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Arizona State Brisson &amp; Ram</CODE>
+    <CODE>Arizona State BR</CODE>
     <FULLNAME>Brisson &amp; Ram</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -31,7 +31,7 @@
     <SCHOOL>77909</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Arizona State Canarie &amp; Revenew</CODE>
+    <CODE>Arizona State CR</CODE>
     <FULLNAME>Canarie &amp; Revenew</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -43,7 +43,7 @@
     <SCHOOL>77909</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Arizona State Chotras &amp; Rajan</CODE>
+    <CODE>Arizona State CR</CODE>
     <FULLNAME>Chotras &amp; Rajan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -55,7 +55,7 @@
     <SCHOOL>79646</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Baylor Boor &amp; Barron</CODE>
+    <CODE>Baylor BB</CODE>
     <FULLNAME>Boor &amp; Barron</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -67,7 +67,7 @@
     <SCHOOL>79646</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Baylor Evans &amp; Walberg</CODE>
+    <CODE>Baylor EW</CODE>
     <FULLNAME>Evans &amp; Walberg</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -79,7 +79,7 @@
     <SCHOOL>79646</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Baylor Stump &amp; Walmsley</CODE>
+    <CODE>Baylor SW</CODE>
     <FULLNAME>Stump &amp; Walmsley</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -91,7 +91,7 @@
     <SCHOOL>78673</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Binghamton Cepin &amp; Sehgal</CODE>
+    <CODE>Binghamton CS</CODE>
     <FULLNAME>Cepin &amp; Sehgal</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -103,7 +103,7 @@
     <SCHOOL>78673</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Binghamton Friedman &amp; Choudhury</CODE>
+    <CODE>Binghamton FC</CODE>
     <FULLNAME>Friedman &amp; Choudhury</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -115,7 +115,7 @@
     <SCHOOL>78673</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Binghamton Herrera &amp; Smith</CODE>
+    <CODE>Binghamton HS</CODE>
     <FULLNAME>Herrera &amp; Smith</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -127,7 +127,7 @@
     <SCHOOL>79291</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Cal State Fullerton Delgado &amp; Gonzalez</CODE>
+    <CODE>Cal State Fullerton DG</CODE>
     <FULLNAME>Delgado &amp; Gonzalez</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -139,7 +139,7 @@
     <SCHOOL>79291</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Cal State Fullerton Garcia &amp; Ruano</CODE>
+    <CODE>Cal State Fullerton GR</CODE>
     <FULLNAME>Garcia &amp; Ruano</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -151,7 +151,7 @@
     <SCHOOL>78728</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>California Berkeley Wimsatt  SergentLeventhal</CODE>
+    <CODE>California, Berkeley WS</CODE>
     <FULLNAME>Wimsatt &amp; Sergent-Leventhal</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -163,7 +163,7 @@
     <SCHOOL>78728</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>California, Berkeley Epner &amp; Martin</CODE>
+    <CODE>California, Berkeley EM</CODE>
     <FULLNAME>Epner &amp; Martin</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -187,7 +187,7 @@
     <SCHOOL>78728</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>California, Berkeley Spurlock &amp; Muppalla</CODE>
+    <CODE>California, Berkeley SM</CODE>
     <FULLNAME>Spurlock &amp; Muppalla</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -199,7 +199,7 @@
     <SCHOOL>78099</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Central Oklahoma Hilligoss &amp; Stidham</CODE>
+    <CODE>Central Oklahoma HS</CODE>
     <FULLNAME>Hilligoss &amp; Stidham</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -211,7 +211,7 @@
     <SCHOOL>77685</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Concordia College Shields &amp; Snelling</CODE>
+    <CODE>Concordia College SS</CODE>
     <FULLNAME>Shields &amp; Snelling</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -223,7 +223,7 @@
     <SCHOOL>77011</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>CUNY Ayaz  McIntyre</CODE>
+    <CODE>CUNY AM</CODE>
     <FULLNAME>Ayaz &amp; McIntyre</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -235,7 +235,7 @@
     <SCHOOL>76891</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Dartmouth College Ahmad &amp; Yan</CODE>
+    <CODE>Dartmouth College AY</CODE>
     <FULLNAME>Ahmad &amp; Yan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -247,7 +247,7 @@
     <SCHOOL>76743</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Emory Bontha &amp; Dean</CODE>
+    <CODE>Emory BD</CODE>
     <FULLNAME>Bontha &amp; Dean</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -271,7 +271,7 @@
     <SCHOOL>76743</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Emory Karthikeyan &amp; Sigalos</CODE>
+    <CODE>Emory KS</CODE>
     <FULLNAME>Karthikeyan &amp; Sigalos</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -283,7 +283,7 @@
     <SCHOOL>76743</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Emory Klarman &amp; Lowe</CODE>
+    <CODE>Emory KL</CODE>
     <FULLNAME>Klarman &amp; Lowe</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -307,7 +307,7 @@
     <SCHOOL>76511</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>George Mason Dailey &amp; Kaye</CODE>
+    <CODE>George Mason DK</CODE>
     <FULLNAME>Dailey &amp; Kaye</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -319,7 +319,7 @@
     <SCHOOL>76511</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>George Mason Kwon &amp; Lastovica</CODE>
+    <CODE>George Mason KL</CODE>
     <FULLNAME>Kwon &amp; Lastovica</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -331,7 +331,7 @@
     <SCHOOL>77519</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>George Washington Stenn &amp; Stasaski</CODE>
+    <CODE>George Washington SS</CODE>
     <FULLNAME>Stasaski &amp; Stenn</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -343,7 +343,7 @@
     <SCHOOL>77519</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>George Washington Trevett &amp; Tobey</CODE>
+    <CODE>George Washington TT</CODE>
     <FULLNAME>Trevett &amp; Tobey</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -355,7 +355,7 @@
     <SCHOOL>77377</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Georgetown Erpenbach &amp; Krishnan</CODE>
+    <CODE>Georgetown EK</CODE>
     <FULLNAME>Erpenbach &amp; Krishnan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -367,7 +367,7 @@
     <SCHOOL>77377</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Georgetown Kazteridis &amp; Knez</CODE>
+    <CODE>Georgetown KK</CODE>
     <FULLNAME>Kazteridis &amp; Knez</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -379,7 +379,7 @@
     <SCHOOL>77377</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Georgetown Louvis &amp; McCoy</CODE>
+    <CODE>Georgetown LM</CODE>
     <FULLNAME>Louvis &amp; McCoy</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -403,7 +403,7 @@
     <SCHOOL>76537</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Georgia Feinberg &amp; Boyce</CODE>
+    <CODE>Georgia BF</CODE>
     <FULLNAME>Feinberg &amp; Boyce</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -415,7 +415,7 @@
     <SCHOOL>76537</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Georgia Galerstein &amp; Hebbale</CODE>
+    <CODE>Georgia GH</CODE>
     <FULLNAME>Galerstein &amp; Hebbale</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -427,7 +427,7 @@
     <SCHOOL>77370</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Georgia State Nails  Stewart</CODE>
+    <CODE>Georgia State SN</CODE>
     <FULLNAME>Nails &amp; Stewart</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -439,7 +439,7 @@
     <SCHOOL>76489</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Gonzaga Bauer &amp; Johnson</CODE>
+    <CODE>Gonzaga BJ</CODE>
     <FULLNAME>Bauer &amp; Johnson</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -451,7 +451,7 @@
     <SCHOOL>76489</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Gonzaga Clawson &amp; Johnson</CODE>
+    <CODE>Gonzaga CJ</CODE>
     <FULLNAME>Clawson &amp; Johnson</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -463,7 +463,7 @@
     <SCHOOL>76489</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Gonzaga Newton &amp; Spraker</CODE>
+    <CODE>Gonzaga NS</CODE>
     <FULLNAME>Newton &amp; Spraker</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -475,7 +475,7 @@
     <SCHOOL>76489</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Gonzaga Skoog &amp; Weinhardt</CODE>
+    <CODE>Gonzaga SW</CODE>
     <FULLNAME>Skoog &amp; Weinhardt</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -487,7 +487,7 @@
     <SCHOOL>77599</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Harvard Asimow &amp; Drecker-Waxman</CODE>
+    <CODE>Harvard AD</CODE>
     <FULLNAME>Asimow &amp; Drecker-Waxman</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -499,7 +499,7 @@
     <SCHOOL>77599</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Harvard Bolman &amp; Suo</CODE>
+    <CODE>Harvard BS</CODE>
     <FULLNAME>Bolman &amp; Suo</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -511,7 +511,7 @@
     <SCHOOL>77599</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Harvard Dimitrijevic &amp; Herman</CODE>
+    <CODE>Harvard DH</CODE>
     <FULLNAME>Dimitrijevic &amp; Herman</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -535,7 +535,7 @@
     <SCHOOL>77599</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Harvard Narayan &amp; Sanjeev</CODE>
+    <CODE>Harvard NS</CODE>
     <FULLNAME>Narayan &amp; Sanjeev</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -547,7 +547,7 @@
     <SCHOOL>76601</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Houston Bockmon &amp; Tripp</CODE>
+    <CODE>Houston BT</CODE>
     <FULLNAME>Bockmon &amp; Tripp</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -559,7 +559,7 @@
     <SCHOOL>76601</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Houston Jennings &amp; Jennings</CODE>
+    <CODE>Houston JJ</CODE>
     <FULLNAME>Jennings &amp; Jennings</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -571,7 +571,7 @@
     <SCHOOL>78850</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Indiana Smale &amp; Ferguson</CODE>
+    <CODE>Indiana SF</CODE>
     <FULLNAME>Smale &amp; Ferguson</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -583,7 +583,7 @@
     <SCHOOL>78362</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Iowa Hancock &amp; Shearer</CODE>
+    <CODE>Iowa HS</CODE>
     <FULLNAME>Hancock &amp; Shearer</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -595,7 +595,7 @@
     <SCHOOL>78362</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Iowa Kimbrough &amp; Liriano</CODE>
+    <CODE>Iowa KL</CODE>
     <FULLNAME>Kimbrough &amp; Liriano</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -607,7 +607,7 @@
     <SCHOOL>77627</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas Bhatla &amp; Cook</CODE>
+    <CODE>Kansas BC</CODE>
     <FULLNAME>Bhatla &amp; Cook</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -619,7 +619,7 @@
     <SCHOOL>77627</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas Carey &amp; Khatri</CODE>
+    <CODE>Kansas CK</CODE>
     <FULLNAME>Carey &amp; Khatri</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -631,7 +631,7 @@
     <SCHOOL>79407</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas City Kansas CC Gonzaba  Joseph</CODE>
+    <CODE>Kansas City Kansas CC GJ</CODE>
     <FULLNAME>Gonzaba &amp; Joseph</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -643,7 +643,7 @@
     <SCHOOL>79407</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas City Kansas CC Nave  Casas</CODE>
+    <CODE>Kansas City Kansas CC CN</CODE>
     <FULLNAME>Nave &amp; Casas</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -655,7 +655,7 @@
     <SCHOOL>77627</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas Duff &amp; Nelson</CODE>
+    <CODE>Kansas DN</CODE>
     <FULLNAME>Duff &amp; Nelson</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -667,7 +667,7 @@
     <SCHOOL>77627</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas Foreman &amp; Goh</CODE>
+    <CODE>Kansas FG</CODE>
     <FULLNAME>Foreman &amp; Goh</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -679,7 +679,7 @@
     <SCHOOL>77627</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas Hampton &amp; Robinson</CODE>
+    <CODE>Kansas HR</CODE>
     <FULLNAME>Hampton &amp; Robinson</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -691,7 +691,7 @@
     <SCHOOL>77627</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas Harris &amp; Wefald</CODE>
+    <CODE>Kansas HW</CODE>
     <FULLNAME>Harris &amp; Wefald</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -703,7 +703,7 @@
     <SCHOOL>78735</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas State Klucas &amp; Scott</CODE>
+    <CODE>Kansas State KS</CODE>
     <FULLNAME>Klucas &amp; Scott</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -715,7 +715,7 @@
     <SCHOOL>78735</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kansas State Ramirez &amp; Pena</CODE>
+    <CODE>Kansas State RP</CODE>
     <FULLNAME>Ramirez &amp; Pena</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -727,7 +727,7 @@
     <SCHOOL>76437</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kentucky Geldof &amp; Vargason</CODE>
+    <CODE>Kentucky GV</CODE>
     <FULLNAME>Geldof &amp; Vargason</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -739,7 +739,7 @@
     <SCHOOL>76437</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kentucky Grasse &amp; Noparstak</CODE>
+    <CODE>Kentucky GN</CODE>
     <FULLNAME>Grasse &amp; Noparstak</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -751,7 +751,7 @@
     <SCHOOL>76437</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Kentucky Hampton &amp; Roman</CODE>
+    <CODE>Kentucky HR</CODE>
     <FULLNAME>Hampton &amp; Roman</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -763,7 +763,7 @@
     <SCHOOL>77542</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Liberty Apthorp &amp; Murray</CODE>
+    <CODE>Liberty AM</CODE>
     <FULLNAME>Apthorp &amp; Murray</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -775,7 +775,7 @@
     <SCHOOL>77542</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Liberty Chiri &amp; Edwards</CODE>
+    <CODE>Liberty CE</CODE>
     <FULLNAME>Chiri &amp; Edwards</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -787,7 +787,7 @@
     <SCHOOL>77542</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Liberty Crane &amp; Schiess</CODE>
+    <CODE>Liberty CS</CODE>
     <FULLNAME>Crane &amp; Schiess</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -799,7 +799,7 @@
     <SCHOOL>78989</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Louisville Barnett &amp; Lattimore</CODE>
+    <CODE>Louisville BL</CODE>
     <FULLNAME>Barnett &amp; Lattimore</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -811,7 +811,7 @@
     <SCHOOL>78989</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Louisville Hanserd &amp; Reddy</CODE>
+    <CODE>Louisville HR</CODE>
     <FULLNAME>Hanserd &amp; Reddy</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -823,7 +823,7 @@
     <SCHOOL>77921</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Michigan Allen &amp; Pappas</CODE>
+    <CODE>Michigan AP</CODE>
     <FULLNAME>Allen &amp; Pappas</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -835,7 +835,7 @@
     <SCHOOL>77921</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Michigan Keller &amp; Keenan</CODE>
+    <CODE>Michigan KK</CODE>
     <FULLNAME>Keller &amp; Keenan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -847,7 +847,7 @@
     <SCHOOL>77921</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Michigan Meyers-Levy &amp; Donovan</CODE>
+    <CODE>Michigan MD</CODE>
     <FULLNAME>Meyers-Levy &amp; Donovan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -859,7 +859,7 @@
     <SCHOOL>77921</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Michigan Morgan &amp; Krakoff</CODE>
+    <CODE>Michigan MK</CODE>
     <FULLNAME>Morgan &amp; Krakoff</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -871,7 +871,7 @@
     <SCHOOL>76435</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Michigan State Lavelle &amp; Munsinger</CODE>
+    <CODE>Michigan State LM</CODE>
     <FULLNAME>Lavelle &amp; Munsinger</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -883,7 +883,7 @@
     <SCHOOL>76435</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Michigan State Strong &amp; Thur</CODE>
+    <CODE>Michigan State ST</CODE>
     <FULLNAME>Strong &amp; Thur</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -895,7 +895,7 @@
     <SCHOOL>77642</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Minnesota Asirvatham &amp; Klish</CODE>
+    <CODE>Minnesota AK</CODE>
     <FULLNAME>Asirvatham &amp; Klish</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -907,7 +907,7 @@
     <SCHOOL>77642</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Minnesota Crunkilton &amp; Ehrlich</CODE>
+    <CODE>Minnesota CE</CODE>
     <FULLNAME>Crunkilton &amp; Ehrlich</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -919,7 +919,7 @@
     <SCHOOL>77642</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Minnesota Williams &amp; Witaszek</CODE>
+    <CODE>Minnesota WW</CODE>
     <FULLNAME>Williams &amp; Witaszek</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -931,7 +931,7 @@
     <SCHOOL>76596</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Missouri - Kansas City Ajisafe &amp; Fisher</CODE>
+    <CODE>Missouri - Kansas City AF</CODE>
     <FULLNAME>Ajisafe &amp; Fisher</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -943,7 +943,7 @@
     <SCHOOL>77372</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Missouri State Brower-Freeman &amp; Hamaker</CODE>
+    <CODE>Missouri State BH</CODE>
     <FULLNAME>Brower-Freeman &amp; Hamaker</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -955,7 +955,7 @@
     <SCHOOL>76433</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Nevada Las Vegas Bhatti &amp; Jallits</CODE>
+    <CODE>Nevada Las Vegas BJ</CODE>
     <FULLNAME>Bhatti &amp; Jallits</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -967,7 +967,7 @@
     <SCHOOL>76433</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Nevada Las Vegas Brooks &amp; Stanfield</CODE>
+    <CODE>Nevada Las Vegas BS</CODE>
     <FULLNAME>Brooks &amp; Stanfield</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -979,7 +979,7 @@
     <SCHOOL>76433</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Nevada Las Vegas Gomez &amp; Velto</CODE>
+    <CODE>Nevada Las Vegas GV</CODE>
     <FULLNAME>Gomez &amp; Velto</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -991,7 +991,7 @@
     <SCHOOL>76433</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Nevada Las Vegas Kezios &amp; Ogata</CODE>
+    <CODE>Nevada Las Vegas KO</CODE>
     <FULLNAME>Kezios &amp; Ogata</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1003,7 +1003,7 @@
     <SCHOOL>76875</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>North Texas Abraha &amp; Krambeer</CODE>
+    <CODE>North Texas AK</CODE>
     <FULLNAME>Abraha &amp; Krambeer</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1015,7 +1015,7 @@
     <SCHOOL>76875</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>North Texas Carroll &amp; Sauceda</CODE>
+    <CODE>North Texas CS</CODE>
     <FULLNAME>Carroll &amp; Sauceda</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1027,7 +1027,7 @@
     <SCHOOL>77689</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Northwestern Esman &amp; McCue</CODE>
+    <CODE>Northwestern EM</CODE>
     <FULLNAME>Esman &amp; McCue</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1039,7 +1039,7 @@
     <SCHOOL>77689</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Northwestern Miles &amp; Vellayappan</CODE>
+    <CODE>Northwestern MV</CODE>
     <FULLNAME>Miles &amp; Vellayappan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1051,7 +1051,7 @@
     <SCHOOL>77689</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Northwestern O'Brien &amp; Worku</CODE>
+    <CODE>Northwestern OW</CODE>
     <FULLNAME>O'Brien &amp; Worku</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1075,7 +1075,7 @@
     <SCHOOL>79297</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>NYU Itliong &amp; Zhan</CODE>
+    <CODE>NYU IZ</CODE>
     <FULLNAME>Itliong &amp; Zhan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1087,7 +1087,7 @@
     <SCHOOL>77641</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Oklahoma Ard &amp; Chiles</CODE>
+    <CODE>Oklahoma AC</CODE>
     <FULLNAME>Ard &amp; Chiles</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1099,7 +1099,7 @@
     <SCHOOL>77641</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Oklahoma Cherry &amp; Yahom</CODE>
+    <CODE>Oklahoma CY</CODE>
     <FULLNAME>Cherry &amp; Yahom</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1123,7 +1123,7 @@
     <SCHOOL>77641</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Oklahoma Wyde &amp; Schexnayder</CODE>
+    <CODE>Oklahoma WS</CODE>
     <FULLNAME>Wyde &amp; Schexnayder</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1135,7 +1135,7 @@
     <SCHOOL>76595</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Pittsburgh Budny &amp; Ramanna</CODE>
+    <CODE>Pittsburgh BR</CODE>
     <FULLNAME>Budny &amp; Ramanna</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1147,7 +1147,7 @@
     <SCHOOL>76595</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Pittsburgh Piekos &amp; Chebrolu</CODE>
+    <CODE>Pittsburgh PC</CODE>
     <FULLNAME>Piekos &amp; Chebrolu</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1159,7 +1159,7 @@
     <SCHOOL>76898</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Rutgers-Newark Stafford &amp; Haughton</CODE>
+    <CODE>Rutgers-Newark SH</CODE>
     <FULLNAME>Stafford &amp; Haughton</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1171,7 +1171,7 @@
     <SCHOOL>76898</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Rutgers-Newark Williams &amp; Murphy</CODE>
+    <CODE>Rutgers-Newark WM</CODE>
     <FULLNAME>Williams &amp; Murphy</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1183,7 +1183,7 @@
     <SCHOOL>80477</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>San Francisco State Binley &amp; Carey</CODE>
+    <CODE>San Francisco State BC</CODE>
     <FULLNAME>Binley &amp; Carey</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1195,7 +1195,7 @@
     <SCHOOL>78180</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Southern California Berger &amp; Larsen</CODE>
+    <CODE>Southern California BL</CODE>
     <FULLNAME>Berger &amp; Larsen</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1207,7 +1207,7 @@
     <SCHOOL>76429</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Texas Kilpatrick &amp; Stransky</CODE>
+    <CODE>Texas KS</CODE>
     <FULLNAME>Kilpatrick &amp; Stransky</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1219,7 +1219,7 @@
     <SCHOOL>76429</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Texas Wilczynski &amp; Makuch</CODE>
+    <CODE>Texas WM</CODE>
     <FULLNAME>Wilczynski &amp; Makuch</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1231,7 +1231,7 @@
     <SCHOOL>80034</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Towson Thomas &amp; Whitley</CODE>
+    <CODE>Towson TW</CODE>
     <FULLNAME>Thomas &amp; Whitley</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1243,7 +1243,7 @@
     <SCHOOL>76494</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Trinity Rothenbaum &amp; Solice</CODE>
+    <CODE>Trinity RS</CODE>
     <FULLNAME>Rothenbaum &amp; Solice</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1255,7 +1255,7 @@
     <SCHOOL>76494</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Trinity Udawala &amp; Torres</CODE>
+    <CODE>Trinity UT</CODE>
     <FULLNAME>Udawala &amp; Torres</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1267,7 +1267,7 @@
     <SCHOOL>82189</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>United States Military Bryant &amp; Barlow</CODE>
+    <CODE>United States Military BB</CODE>
     <FULLNAME>Bryant &amp; Barlow</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1279,7 +1279,7 @@
     <SCHOOL>82189</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>United States Military McGovern &amp; Spikol</CODE>
+    <CODE>United States Military MS</CODE>
     <FULLNAME>McGovern &amp; Spikol</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1291,7 +1291,7 @@
     <SCHOOL>79436</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>UT Dallas Ballard &amp; Flanagan</CODE>
+    <CODE>UT Dallas BF</CODE>
     <FULLNAME>Ballard &amp; Flanagan</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1303,7 +1303,7 @@
     <SCHOOL>79436</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>UT Dallas Ogbuli &amp; Loehr</CODE>
+    <CODE>UT Dallas OL</CODE>
     <FULLNAME>Ogbuli &amp; Loehr</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1315,7 +1315,7 @@
     <SCHOOL>79931</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>UT San Antonio Alegria &amp; Warren</CODE>
+    <CODE>UT San Antonio AW</CODE>
     <FULLNAME>Alegria &amp; Warren</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1327,7 +1327,7 @@
     <SCHOOL>79931</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>UT San Antonio Nation &amp; Pabst</CODE>
+    <CODE>UT San Antonio NP</CODE>
     <FULLNAME>Nation &amp; Pabst</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1339,7 +1339,7 @@
     <SCHOOL>76680</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Vermont Brough  Lee</CODE>
+    <CODE>Vermont BL</CODE>
     <FULLNAME>Brough &amp; Lee</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1351,7 +1351,7 @@
     <SCHOOL>76468</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Wake Forest Duff &amp; Langr</CODE>
+    <CODE>Wake Forest DL</CODE>
     <FULLNAME>Duff &amp; Langr</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1411,7 +1411,7 @@
     <SCHOOL>79637</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Wayne State Nagel &amp; Slaw</CODE>
+    <CODE>Wayne State NS</CODE>
     <FULLNAME>Nagel &amp; Slaw</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1423,7 +1423,7 @@
     <SCHOOL>76417</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Weber State Hall &amp; Veeder</CODE>
+    <CODE>Weber State HV</CODE>
     <FULLNAME>Hall &amp; Veeder</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1435,7 +1435,7 @@
     <SCHOOL>76417</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Weber State Hendricks &amp; Tippets</CODE>
+    <CODE>Weber State HT</CODE>
     <FULLNAME>Hendricks &amp; Tippets</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1447,7 +1447,7 @@
     <SCHOOL>76417</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Weber State Olsen &amp; Gaither</CODE>
+    <CODE>Weber State OG</CODE>
     <FULLNAME>Olsen &amp; Gaither</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1459,7 +1459,7 @@
     <SCHOOL>76487</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>West Georgia Gaius &amp; Robles</CODE>
+    <CODE>West Georgia GR</CODE>
     <FULLNAME>Gaius &amp; Robles</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1483,7 +1483,7 @@
     <SCHOOL>77702</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Whitman College Anderson &amp; Barsky</CODE>
+    <CODE>Whitman College AB</CODE>
     <FULLNAME>Anderson &amp; Barsky</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1495,7 +1495,7 @@
     <SCHOOL>77702</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Whitman College Kochman &amp; Thompson</CODE>
+    <CODE>Whitman College KT</CODE>
     <FULLNAME>Kochman &amp; Thompson</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1507,7 +1507,7 @@
     <SCHOOL>77702</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Whitman College Lassiter &amp; Durand</CODE>
+    <CODE>Whitman College LD</CODE>
     <FULLNAME>Lassiter &amp; Durand</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1519,7 +1519,7 @@
     <SCHOOL>78178</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Wichita State McFarland &amp; O'Donnell</CODE>
+    <CODE>Wichita State MO</CODE>
     <FULLNAME>McFarland &amp; O'Donnell</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1531,7 +1531,7 @@
     <SCHOOL>76527</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Wyoming Berry &amp; Culver</CODE>
+    <CODE>Wyoming BC</CODE>
     <FULLNAME>Berry &amp; Culver</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
@@ -1543,7 +1543,7 @@
     <SCHOOL>76527</SCHOOL>
     <EVENT>31590</EVENT>
     <RATING>0</RATING>
-    <CODE>Wyoming Marcum &amp; McFarland</CODE>
+    <CODE>Wyoming MM</CODE>
     <FULLNAME>Marcum &amp; McFarland</FULLNAME>
     <DROPPED>false</DROPPED>
     <WAITLIST>0</WAITLIST>
