@@ -35,16 +35,28 @@ for entry in ndt_root.findall('ENTRY'):
 ndt_entries_txt.close()
 
 #now that I have ndt part done, i ONLY care about NDT teams
-
-#adds each tournament
-tournament_code.gsuresults.gsu(ndt_entries_list,ndt_points)
-tournament_code.ukresults.uk(ndt_entries_list,ndt_points)
-tournament_code.umkcresults.umkc(ndt_entries_list,ndt_points)
-tournament_code.harvardresults.harvard(ndt_entries_list,ndt_points)
-tournament_code.wakeresults.wake(ndt_entries_list,ndt_points)
-tournament_code.uscresults.usc(ndt_entries_list,ndt_points)
-tournament_code.fullertonresults.fullerton(ndt_entries_list,ndt_points)
-tournament_code.texasresults.texas(ndt_entries_list,ndt_points)
+continue1=0
+while continue1==0:
+	tournaments=raw_input("Which tournaments would you like to enter? Type ALL for majors, type SOME for fewer tournaments")
+	if tournaments=='ALL':
+		#adds each tournament
+		continue1=5
+		tournament_code.gsuresults.gsu(ndt_entries_list,ndt_points)
+		tournament_code.ukresults.uk(ndt_entries_list,ndt_points)
+		tournament_code.umkcresults.umkc(ndt_entries_list,ndt_points)
+		tournament_code.harvardresults.harvard(ndt_entries_list,ndt_points)
+		tournament_code.wakeresults.wake(ndt_entries_list,ndt_points)
+		tournament_code.uscresults.usc(ndt_entries_list,ndt_points)
+		tournament_code.fullertonresults.fullerton(ndt_entries_list,ndt_points)
+		tournament_code.texasresults.texas(ndt_entries_list,ndt_points)
+	elif tournaments=='SOME':
+		subset=raw_input("GSU? Type Y or N")
+		continue1=1
+		if subset=='Y':
+			tournament_code.gsuresults.gsu(ndt_entries_list,ndt_points)
+	elif (tournaments!='ALL' and tournaments!='SOME'):
+		continue1==0
+		raw_input("Please use correct usage")
 
 ###print values at the end
 speaks= os.path.join(dir,'output\speaker_points.txt')
@@ -86,28 +98,12 @@ for key, value in ndt_points.iteritems():
 	running_count=0
 	if len(value) >= 1:
 		while i < len(value):
-			#value[0] is GSU
 			counter1=float(value[i+1])
-			#print counter1
-			#value[1] is 16
 			counter2=float(value[i+2])
-			#print counter2
-			#value[2] is average from GSU
 			counter3=counter1*counter2
-			#print counter3
 			running_sum=running_sum+counter3
 			running_count=running_count+counter1
-			#the order is tourn_name, num_rounds, average
-			#take value[1], cast as float
-			#create a sum of values
-			#take value[2], cast as float
-			#multiply
-			#create a sum of these values
-			#divide at end
-			#this gives average
 			i+=3
-			#print running_count
-		#print running_count
 		average=running_sum/running_count
 		ndt_average.setdefault(key,[]).append(average)
 	else:
@@ -136,7 +132,5 @@ for w in sorted(ndt_average, key=ndt_average.get, reverse=True):
 	speaker_avg_order.write('\n')
 	counter_print=counter_print+1
 speaker_avg_order.close()
-#for key, value in ndt_average.iteritems():
-#	print key, value
 print("Files have been generated")
-input("Press Enter to continue...")
+raw_input("Press Enter to continue...")
