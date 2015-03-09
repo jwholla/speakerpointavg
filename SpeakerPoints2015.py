@@ -123,8 +123,15 @@ speaker_avg.close()
 
 #create a new dict that goes the other direction
 counter_print=1
+#count number of teams that have No tournaments attended
+teamsWithNoMajors=0
+for w in ndt_average:
+	print str(ndt_average[w])
+	if 'tournaments' in str(ndt_average[w]):
+		teamsWithNoMajors+=1
+		print teamsWithNoMajors
 for w in sorted(ndt_average, key=ndt_average.get, reverse=True):
-	speaker_avg_order.write(str(counter_print-2))
+	speaker_avg_order.write(str(counter_print-teamsWithNoMajors))
 	speaker_avg_order.write(' ')
 	speaker_avg_order.write(w)
 	speaker_avg_order.write(' ')

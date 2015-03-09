@@ -60,3 +60,38 @@ Wayne State SN
 Weber State HV
 Whitman College DL
 Wyoming MM
+Binghamton CS
+California, Berkeley EM
+Emory KL
+Georgetown KK
+Gonzaga BJ
+Gonzaga NS
+Gonzaga SW
+Harvard AD
+Harvard NS
+Houston BR
+Iowa KL
+James Madison ML
+Kansas BC
+Kansas City Kansas CC GJ
+Kansas FG
+Kentucky GN
+Liberty AM
+Michigan DM
+Michigan KK
+Michigan State LM
+North Texas CS
+Northwestern EM
+Oklahoma WS
+Pittsburgh BR
+Rutgers-Newark SH
+Southern California PS
+Texas CS
+UT Dallas BF
+Wake Forest CS
+Wake Forest MS
+Wake Forest Sh
+Weber State HT
+West Georgia GR
+Whitman College BT
+Wichita State MO
