@@ -1,6 +1,7 @@
 Arizona State CR
 Baylor BB
 Baylor EZ
+Binghamton CS
 Binghamton HS
 Cal State Fullerton DG
 California, Berkeley MS
@@ -10,28 +11,38 @@ Concordia College SS
 CUNY AM
 Dartmouth College KM
 Emory BD
+Emory KL
 Emory KS
 George Mason DK
 George Mason KL
 Georgetown EK
+Georgetown KK
 Georgetown LM
 Georgia BF
 Georgia GH
 Georgia State SN
+Gonzaga NS
+Gonzaga SW
 Harvard BS
 Harvard DH
+Harvard NS
+Iowa KL
 Iowa SH
 James Madison BW
+James Madison ML
 Kansas City Kansas CC CN
+Kansas FG
 Kansas HR
 Kansas KC
 Kansas State RP
 Kansas State SK
+Kentucky GN
 Kentucky GV
 Kentucky HR
 Liberty CE
 Liberty CS
 Michigan AP
+Michigan DM
 Michigan KM
 Michigan State CZ
 Michigan State ST
@@ -45,6 +56,7 @@ NYU IZ
 Oklahoma AC
 Oklahoma CY
 Puget Sound BQ
+Rutgers-Newark SH
 Southern California BL
 Southern California NO
 Stanford GL
@@ -56,27 +68,15 @@ UT Dallas OL
 Vanderbilt BM
 Vermont BL
 Wake Forest DL
+Wake Forest ShMi
 Wayne State SN
+Weber State HT
 Weber State HV
+West Georgia GR
 Whitman College DL
+Wichita State MO
 Wyoming MM
-Binghamton CS
-California, Berkeley EM
-Emory KL
-Georgetown KK
-Gonzaga BJ
-Gonzaga NS
-Gonzaga SW
-Harvard AD
-Harvard NS
-Houston BR
-Iowa KL
-James Madison ML
-Kansas BC
-Kansas City Kansas CC GJ
-Kansas FG
-Kentucky GN
-Liberty AM
+erty AM
 Michigan DM
 Michigan KK
 Michigan State LM

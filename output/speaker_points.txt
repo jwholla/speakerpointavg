@@ -5,7 +5,6 @@ Binghamton CS usc 12 28.6083333333 fullerton 12 28.5583333333 fullerton 10 27.91
 Binghamton HS UMKC 16 28.775 harvard 16 28.54375 wake 16 28.6375 usc 12 28.6416666667 fullerton 12 28.8083333333 texas 16 28.575 
 CUNY AM wake 16 28.6 texas 16 28.66875 
 Cal State Fullerton DG harvard 16 28.38125 wake 16 28.4875 usc 12 28.5333333333 texas 16 28.525 
-California, Berkeley EM UMKC 16 28.45625 harvard 16 28.4 usc 12 28.3583333333 fullerton 12 28.4333333333 texas 16 28.4875 
 California, Berkeley MS UK 16 28.83125 UMKC 16 28.8125 harvard 16 28.8125 wake 16 28.925 usc 12 28.8833333333 fullerton 12 29.125 texas 16 28.975 
 California, Berkeley WS UMKC 16 28.88125 UMKC 16 28.375 wake 16 28.9125 usc 12 28.9833333333 texas 16 29.06875 
 Central Oklahoma HS texas 16 28.44375 
@@ -22,21 +21,16 @@ Georgetown LM GSU 16 29.025 UK 16 28.94375 harvard 22 29.0818181818 wake 16 28.9
 Georgia BF GSU 16 28.5 UK 16 28.61875 harvard 14 28.7714285714 wake 16 28.70625 texas 16 28.66875 
 Georgia GH GSU 16 28.7 wake 16 28.2375 texas 16 28.35625 
 Georgia State SN GSU 16 28.2 UK 16 28.36875 wake 16 28.43125 texas 16 28.3875 
-Gonzaga BJ GSU 16 28.45 UK 16 28.375 wake 16 28.34375 usc 12 28.2666666667 texas 16 28.36875 
 Gonzaga NS GSU 16 28.475 wake 16 28.39375 usc 12 28.575 texas 16 28.46875 
 Gonzaga SW GSU 16 28.51875 UK 16 28.3875 wake 16 28.56875 texas 16 28.5375 
-Harvard AD GSU 16 28.43125 UK 16 28.45625 wake 16 28.65625 usc 12 28.7833333333 fullerton 12 28.8 texas 16 28.8375 
 Harvard BS GSU 16 29.175 UK 16 29.225 wake 16 29.26875 fullerton 12 29.3166666667 texas 16 29.425 
 Harvard DH GSU 16 28.96875 UK 16 29.25 wake 16 29.15625 usc 12 29.275 fullerton 12 29.3083333333 texas 16 29.175 
 Harvard NS GSU 16 28.58125 UK 16 28.625 wake 16 28.65625 usc 12 28.525 fullerton 12 28.5166666667 texas 16 28.76875 
-Houston BR 
 Iowa KL UMKC 16 28.425 harvard 16 28.83125 wake 16 28.78125 usc 10 28.68 fullerton 12 28.8 texas 16 28.81875 
 Iowa SH UMKC 16 28.5625 harvard 13 28.3923076923 wake 16 28.65625 texas 14 28.7857142857 
 James Madison BW GSU 16 28.29375 harvard 16 28.41875 wake 16 28.54375 usc 12 28.4333333333 fullerton 10 28.4 
 James Madison ML GSU 16 28.56875 harvard 16 28.45 wake 16 28.5 usc 12 28.5083333333 fullerton 12 28.35 
-Kansas BC GSU 16 28.56875 UK 16 28.54375 UMKC 16 28.53125 harvard 16 28.3625 wake 16 28.65 texas 16 28.51875 
 Kansas City Kansas CC CN texas 14 29.0714285714 
-Kansas City Kansas CC GJ texas 16 28.6625 
 Kansas FG GSU 16 28.6375 UK 16 28.49375 UMKC 16 28.43125 harvard 16 28.375 wake 16 28.55625 usc 12 28.5833333333 fullerton 12 28.675 texas 16 28.5625 
 Kansas HR GSU 16 28.725 UMKC 16 28.80625 harvard 16 28.76875 wake 16 28.98125 usc 12 29.1583333333 fullerton 12 29.2166666667 texas 16 29.05625 
 Kansas KC GSU 16 28.80625 UK 16 28.7 UMKC 16 28.725 harvard 20 28.715 wake 16 28.74375 usc 12 28.675 texas 16 28.8125 
@@ -45,53 +39,40 @@ Kansas State SK UMKC 16 28.025 UMKC 16 28.43125 wake 16 28.61875 texas 16 28.7
 Kentucky GN GSU 16 28.875 UK 16 28.70625 harvard 16 28.8 wake 16 28.7875 texas 16 28.89375 
 Kentucky GV GSU 16 28.56875 UK 16 28.8125 harvard 16 28.69375 wake 16 28.65 texas 16 28.7625 
 Kentucky HR GSU 16 28.65625 UK 16 28.6375 wake 16 28.53125 texas 16 28.5875 
-Liberty AM GSU 16 28.54375 harvard 16 28.63125 wake 16 28.54375 fullerton 12 28.5 texas 16 28.5875 
 Liberty CE GSU 16 28.8875 harvard 16 28.79375 wake 16 29.0875 usc 12 28.825 fullerton 12 28.975 texas 16 28.95625 
 Liberty CS GSU 16 28.1125 wake 16 28.18125 usc 12 28.375 fullerton 12 28.5083333333 texas 16 28.4375 
 Michigan AP UK 16 29.23125 harvard 20 29.05 wake 16 29.20625 usc 12 29.1333333333 fullerton 12 29.2916666667 texas 16 29.3 
 Michigan DM GSU 16 28.64375 UK 16 28.60625 harvard 16 28.725 wake 16 28.6625 texas 16 28.68125 
-Michigan KK GSU 16 28.5375 UK 16 28.54375 harvard 16 28.39375 wake 16 28.55625 texas 16 28.525 
 Michigan KM GSU 16 28.86875 UK 16 28.80625 harvard 18 28.9333333333 wake 16 29.1875 usc 12 28.9666666667 fullerton 12 29.2166666667 texas 16 29.13125 
 Michigan State CZ GSU 16 28.75 UK 16 28.71875 harvard 18 28.7444444444 wake 16 28.95625 
-Michigan State LM UK 16 28.38125 harvard 16 28.45 texas 16 28.65625 
 Michigan State ST GSU 16 28.88125 UK 16 29.0625 harvard 18 29.1 wake 16 28.89375 fullerton 5 29.16 texas 16 28.99375 
 Minnesota CE GSU 16 28.85625 UK 16 28.9625 harvard 18 28.9277777778 wake 16 28.99375 usc 12 29.075 fullerton 12 29.0583333333 texas 16 28.98125 
 Minnesota WW GSU 16 28.325 UK 16 28.34375 UMKC 16 28.2375 harvard 16 28.19375 wake 16 28.2 usc 12 28.3083333333 fullerton 12 28.5333333333 texas 16 28.5 
 NYU IZ wake 16 28.39375 texas 16 28.45625 
 Nevada Las Vegas BS UMKC 16 28.7125 harvard 16 28.58125 wake 16 28.6 usc 12 28.8 fullerton 12 28.9333333333 texas 16 28.7125 
 Nevada Las Vegas GV UMKC 16 28.5875 harvard 16 28.675 wake 16 29.00625 usc 12 28.675 fullerton 12 28.7166666667 texas 16 28.6625 
-North Texas CS UMKC 16 28.34375 texas 16 28.6375 
-Northwestern EM GSU 16 28.525 UK 16 28.575 harvard 16 28.54375 texas 16 28.6875 
 Northwestern MV GSU 16 29.375 harvard 18 29.0944444444 wake 16 29.28125 usc 12 29.225 fullerton 12 29.4166666667 texas 16 29.11875 
 Northwestern OW GSU 16 28.64375 UK 16 28.575 harvard 16 28.725 wake 16 28.65625 usc 12 28.6416666667 fullerton 12 28.6333333333 texas 16 28.76875 
 Oklahoma AC UMKC 16 29.10625 harvard 18 29.0888888889 wake 16 28.9375 usc 12 29.1083333333 fullerton 12 29.0416666667 texas 16 29.21875 
 Oklahoma CY harvard 16 28.06875 usc 12 28.7916666667 fullerton 12 28.9166666667 texas 16 29.225 
-Oklahoma WS usc 12 28.5 fullerton 12 28.7583333333 texas 14 28.75 
-Pittsburgh BR UMKC 16 28.35 harvard 16 28.2875 wake 16 28.43125 texas 14 28.4785714286 
 Puget Sound BQ usc 12 28.8083333333 
 Rutgers-Newark SH harvard 16 28.7625 wake 16 28.71875 texas 16 28.58125 
 Southern California BL UK 16 28.63125 UMKC 16 28.6875 wake 16 28.525 fullerton 12 28.9416666667 texas 16 28.875 
 Southern California NO UK 16 28.3875 UMKC 16 28.44375 
-Southern California PS 
 Stanford GL UMKC 16 28.5 harvard 19 28.7894736842 wake 16 28.94375 usc 12 28.8083333333 
-Texas CS 
 Texas SK UMKC 16 28.6375 harvard 16 28.53125 wake 16 28.55 texas 16 28.775 
 Towson TW UMKC 16 28.71875 harvard 16 28.85625 wake 16 29.03125 usc 12 28.8166666667 fullerton 12 29.0333333333 texas 16 28.9375 
 Trinity SR GSU 16 28.7125 harvard 16 28.73125 wake 16 28.775 texas 16 28.7875 
-UT Dallas BF UK 16 28.38125 UMKC 16 28.14375 wake 16 28.15625 texas 16 28.43125 
 UT Dallas OL UK 16 28.25 UMKC 16 28.6375 harvard 16 28.55625 wake 16 28.6125 texas 16 28.525 
 United States Military BC 
 Vanderbilt BM GSU 16 28.35625 UK 16 28.3625 wake 16 28.45 
 Vermont BL harvard 16 28.53125 wake 16 28.89375 fullerton 12 28.75 texas 16 28.81875 
-Wake Forest CS 
 Wake Forest DL GSU 16 28.83125 UK 16 29.05 harvard 20 29.005 usc 12 29.0583333333 fullerton 12 29.0333333333 texas 16 28.9 
-Wake Forest MS GSU 16 28.60625 UK 16 28.4875 harvard 16 28.6375 
-Wake Forest Sh 
+Wake Forest ShMi GSU 16 28.55 
 Wayne State SN GSU 16 28.54375 UK 16 28.65 wake 16 28.6 usc 12 28.5166666667 fullerton 12 28.725 texas 16 28.54375 
 Weber State HT UMKC 16 28.49375 wake 16 28.70625 usc 12 28.5666666667 fullerton 12 28.625 texas 16 28.83125 
 Weber State HV UMKC 16 28.41875 usc 12 28.825 fullerton 12 28.6083333333 texas 16 28.5125 
 West Georgia GR texas 16 28.8875 
-Whitman College BT 
 Whitman College DL UMKC 16 28.38125 usc 12 28.4916666667 fullerton 12 28.425 texas 16 28.36875 
 Wichita State MO UMKC 16 28.55 wake 16 28.40625 texas 16 28.45625 
 Wyoming MM usc 12 28.4916666667 fullerton 12 28.5416666667 texas 16 28.575 
